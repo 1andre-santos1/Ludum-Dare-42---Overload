@@ -5,3 +5,9 @@
 
 ## Objective
 #### Your objective is to manage all the resources and humans, so that the humans don't go extinct nor the natural resources of the Earth end from human overpopulation
+
+## Where to play it
+#### https://programmingdimension.itch.io/overload
+
+## Ludum Dare page
+#### https://ldjam.com/events/ludum-dare/42/overload-1
